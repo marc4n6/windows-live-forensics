@@ -17,4 +17,4 @@ It is recommended to perform an acquisition of the memory prior to running this 
 
 
 # Encrypted Disk Detector
-This script is using [EDD.exe](https://www.magnetforensics.com/free-tool-encrypted-disk-detector/).
+This script is using [EDD.exe](https://www.magnetforensics.com/free-tool-encrypted-disk-detector/) by Magnet Forensics.
