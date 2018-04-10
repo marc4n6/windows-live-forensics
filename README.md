@@ -13,7 +13,8 @@ Right-click on the batch file named "Run_as_admin_if_possible" > "Run as Adminis
 ```
 
 # IMPORTANT
-It is recommended to perform an acquisition of the memory prior to running this powershell script.
+It is usually recommended to perform an acquisition of the memory prior to run any scripts and/or applications.
+Make this decision based on the circumstances of your case.
 
 
 # Encrypted Disk Detector
